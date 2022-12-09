@@ -1,0 +1,10 @@
+export const ADD_NEW_TODO = "ADD_NEW_TOD";
+export const GET_ALL_TODO = "GET_ALL_TODO";
+export const TOGGLE_TODO = "TOGGLE_TODO";
+export const UPDATE_TODO = "UPDATE_TODO";
+export const DELETE_TODO = "DELETE-TODO";
+export const ALL_TODO = "All Todo";
+export const ACTIVE_TODO = "Active Todo";
+export const DONE_TODO = "Done Todo";
+export const TOGGLE_TAB = "TOGGLE_TAB";
+export const TABS = [ALL_TODO, ACTIVE_TODO, DONE_TODO];
